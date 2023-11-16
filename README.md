@@ -5,6 +5,11 @@
 Hello world, I'm a Front-End Developer with over a year of experience in creating websites and applications. I've built different web applications, from single-page sites with user logins to responsive websites using modern technologies. My skills include designing easy-to-use interfaces and contributing to various government and software projects.
 Let's connect and explore opportunities to innovate together!
 
+### CONTACT ME
+
+[![Linkedin Badge](https://img.shields.io/badge/-Rosemary%20Emenike%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosemary-emenike/)](https://www.linkedin.com/in/rosemary-emenike)
+[![Gmail Badge](https://img.shields.io/badge/-erosemary1470@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erosemary1470@gmail.com)](mailto:erosemary1470@gmail.com)
+
 <!--[![Rosemary's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rosemary-Emenike&theme=xcode)](https://git.io/Rosemary-Emenike)
 -->
 ## 👩‍💻 TECHNOLOGIES
@@ -80,11 +85,6 @@ Let's connect and explore opportunities to innovate together!
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### CONTACT ME
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rosemary%20Emenike%20--%20LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosemary-emenike/)](https://www.linkedin.com/in/rosemary-emenike)
-[![Gmail Badge](https://img.shields.io/badge/-erosemary1470@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erosemary1470@gmail.com)](mailto:erosemary1470@gmail.com)
 
 <!--## 📈 STATS
 
